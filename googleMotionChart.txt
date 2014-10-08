@@ -1,0 +1,11 @@
+Google Motion Chart Project for Information Visualization (ITI)
+
+https://docs.google.com/document/d/1C2MwyQIoJzU7L-Xoq9VgPgX7NhtIW4Y4Bdnre44iWto/edit?usp=sharing
+
+(google doc)
+
+http://stats.oecd.org/Index.aspx?DataSetCode=CWB# (Site used to gather Data on Health)
+
+https://docs.google.com/spreadsheet/ccc?key=0An4si536-SOgdE52UzBzU0FCN3RkQzZhamt4WFpqMXc#gid=0                (Google Motion Chart Data)
+
+https://docs.google.com/spreadsheet/ccc?key=0An4si536-SOgdE52UzBzU0FCN3RkQzZhamt4WFpqMXc#gid=1                (Google Motion Chart)

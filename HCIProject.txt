@@ -1,0 +1,10 @@
+Human Computer Interaction (ITI) Final Project
+
+https://sites.google.com/site/hci230finalproj/
+
+As a group you will be implementing an Android app and going through the development and 
+design process. Just make sure you pick something that's doable and pertains to practicing
+theories and concepts we learn in the HCI class. This means, your project will have to go 
+through understanding users (stage#2), lo-fi prototype (stage#3), hi-fi prototype 
+(stage#4), and heuristic evaluation (stage#5). You will also be doing project presentation 
+(stage#6) and submitting a project report (stage#7).
